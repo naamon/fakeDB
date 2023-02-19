@@ -2,28 +2,32 @@
   "restaurants": [
     {
       "id": 1,
-      "name":"naama",
-      "Discreption": "hello",
-      "img":"1.jpg"
+      "name":"NonoMimi",
+      "Discreption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "img":"1.jpg",
+      "kind":"milky"
       
     },
     {
       "id": 2,
-      "name":"naama",
-      "Discreption": "hello",
-      "img":"2.jpg"
+      "name":"Yuval's Falafel",
+      "Discreption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "img":"2.jpg",
+      "kind":"fur"
     },
     {
       "id": 3,
-      "name":"naama",
-      "Discreption": "hello",
-      "img":"3.jpg"
+      "name":"Chayxana",
+      "Discreption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "img":"3.jpg",
+      "kind":"fleshy"
     },
     {
       "id": 4,
-      "name":"naama",
-      "Discreption": "hello",
-      "img":"4.jpg"
+      "name":"Kansai",
+      "Discreption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+      "img":"4.jpg",
+      "kind":"fur"
     }
   ]
 }

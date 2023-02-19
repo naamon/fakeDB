@@ -4,26 +4,26 @@
       "id": 1,
       "name":"naama",
       "Discreption": "hello",
-      "img":"1"
+      "img":"1.jpg"
       
     },
     {
       "id": 2,
       "name":"naama",
       "Discreption": "hello",
-      "img":"2"
+      "img":"2.jpg"
     },
     {
       "id": 3,
       "name":"naama",
       "Discreption": "hello",
-      "img":"3"
+      "img":"3.jpg"
     },
     {
       "id": 4,
       "name":"naama",
       "Discreption": "hello",
-      "img":"4"
+      "img":"4.jpg"
     }
   ]
 }
